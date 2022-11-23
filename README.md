@@ -8,6 +8,8 @@
 
 -  Gabriel Dias
 
+-  João Oliveira
+
 -  Matheus Benini
 
 -  Samuel Huss
