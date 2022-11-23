@@ -14,7 +14,7 @@
 
  ## Etapa 1 – Requisitos – Diagrama de Casos de Uso 
  - [Diagrama de casos de uso](https://github.com/samuelhuss/aucfinance/blob/main/diagrama%20de%20caso%20de%20uso.pdf)
- - [Requisitos](
+ - [Requisitos](https://github.com/samuelhuss/aucfinance/blob/main/requisitos.pdf)
 
 2.	Etapa 2 – Gestão de Configuração de Software 
 
