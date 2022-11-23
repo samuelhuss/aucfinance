@@ -16,13 +16,13 @@
  - [Diagrama de casos de uso](https://github.com/samuelhuss/aucfinance/blob/main/diagrama%20de%20caso%20de%20uso.pdf)
  - [Requisitos](https://github.com/samuelhuss/aucfinance/blob/main/requisitos.pdf)
 
-2.	Etapa 2 – Gestão de Configuração de Software 
+##	Etapa 2 – Gestão de Configuração de Software 
 
-3.	Etapa 3 – Gestão ágil de projeto - SCRUM 
+##	Etapa 3 – Gestão ágil de projeto - SCRUM 
 
-4.	Etapa 4 – Projeto 
+##	Etapa 4 – Projeto 
 
-5.	Etapa 5 – Interface
+##	Etapa 5 – Interface
 
 
 
