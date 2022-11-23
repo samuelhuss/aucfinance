@@ -1,6 +1,6 @@
 <h2  align="center"> Segunda Avaliação (A1) - 2o Semestre </h2>
 
-<h3>Alunos:</h3>
+<h3>💻 Alunos:</h3>
 
 -  Ana Clara Furlan Mazotti
 
