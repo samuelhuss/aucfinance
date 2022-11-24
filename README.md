@@ -21,6 +21,7 @@
 ##	Etapa 2 – Gestão de Configuração de Software 
 
 ##	Etapa 3 – Gestão ágil de projeto - SCRUM 
+ - [Backlog e Sprint](https://github.com/users/samuelhuss/projects/2/views/2)
 
 ##	Etapa 4 – Projeto 
 
