@@ -32,7 +32,7 @@
  - [Protótipo]( )
  
 ## Etapa 6 – Teste 
- - [Plano de teste]( )
+ - [Plano de teste](https://github.com/samuelhuss/aucfinance/blob/main/testes.pdf)
 
 <br>
 Feito com ♥
