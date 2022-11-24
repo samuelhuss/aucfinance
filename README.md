@@ -30,7 +30,7 @@
 
 ##	Etapa 5 – Interface
  - [Protótipo]( )
- -
+ 
 ## Etapa 6 – Teste 
  - [Plano de teste]( )
 
