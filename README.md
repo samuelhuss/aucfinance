@@ -18,7 +18,8 @@
  - [Diagrama de casos de uso](https://github.com/samuelhuss/aucfinance/blob/main/diagrama%20de%20caso%20de%20uso.pdf)
  - [Requisitos](https://github.com/samuelhuss/aucfinance/blob/main/requisitos.pdf)
 
-##	Etapa 2 – Gestão de Configuração de Software 
+##	Etapa 2 – Gestão de Configuração de Software
+ - [GitHub](https://github.com/samuelhuss/aucfinance)
 
 ##	Etapa 3 – Gestão ágil de projeto - SCRUM 
  - [Backlog e Sprint](https://github.com/users/samuelhuss/projects/2/views/2)
@@ -28,6 +29,10 @@
  - [Diagrama de máquina de estado](https://github.com/samuelhuss/aucfinance/blob/main/diagrama_maquina_de_estado.pdf)
 
 ##	Etapa 5 – Interface
+ - [Protótipo]( )
+ -
+## Etapa 6 – Teste 
+ - [Plano de teste]( )
 
 <br>
 Feito com ♥
