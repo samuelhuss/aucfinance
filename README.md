@@ -24,6 +24,7 @@
 ##	Etapa 3 – Gestão ágil de projeto - SCRUM 
  - [Backlog e Sprint](https://github.com/users/samuelhuss/projects/2/views/2)
  - [Burndown chart](https://github.com/samuelhuss/aucfinance/blob/main/burndown.png)
+ - [Tabela Burndown](https://github.com/samuelhuss/aucfinance/blob/main/burndown.png)
 
 ##	Etapa 4 – Projeto 
  - [Diagrama de máquina de estado](https://github.com/samuelhuss/aucfinance/blob/main/diagrama_maquina_de_estado.pdf)
