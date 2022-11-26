@@ -31,6 +31,7 @@
 
 ##	Etapa 5 – Interface
  - [Protótipo](https://www.figma.com/proto/hL1URmim9E3ErIqOUpwMHR/AUC-FInance?node-id=28%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=25%3A8)
+ ![Screenshot](aucfinance.png)
  
 ## Etapa 6 – Teste 
  - [Plano de teste](https://github.com/samuelhuss/aucfinance/blob/main/testes.pdf)
