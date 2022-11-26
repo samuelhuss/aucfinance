@@ -30,7 +30,7 @@
  - [Diagrama de máquina de estado](https://github.com/samuelhuss/aucfinance/blob/main/diagrama_maquina_de_estado.pdf)
 
 ##	Etapa 5 – Interface
- - [Protótipo](https://www.figma.com/proto/hL1URmim9E3ErIqOUpwMHR/AUC-FInance?node-id=4%3A188&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A188)
+ - [Protótipo](https://www.figma.com/proto/hL1URmim9E3ErIqOUpwMHR/AUC-FInance?page-id=0%3A1&node-id=28%3A8&viewport=721%2C366%2C0.25&scaling=scale-down&starting-point-node-id=25%3A8)
  
 ## Etapa 6 – Teste 
  - [Plano de teste](https://github.com/samuelhuss/aucfinance/blob/main/testes.pdf)
